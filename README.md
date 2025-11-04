@@ -22,6 +22,21 @@
 
 ---
 
+### 💼 Work Experience
+
+#### 🏢 **MxAlgo Technologies** — Frontend Developer  
+📅 *June 2024 – Present*  
+📍 *India (Remote/On-site)*  
+
+**Key Responsibilities:**
+- Developed **responsive dashboards** and **IoT-based frontend modules** using React.js.  
+- Created **reusable UI components** and improved design consistency across multiple projects.  
+- Integrated APIs for real-time IoT device data visualization.  
+- Collaborated with backend and UI/UX teams to deliver scalable web solutions.  
+- Worked with tools like **Postman**, **Git**, and **Tailwind CSS** for faster development.  
+
+---
+
 ### 🧠 Featured Projects
 - 📝 [Notes App](https://github.com/yourusername/notes-app)  
   A responsive note-taking app built with React.js and localStorage.  
@@ -57,3 +72,4 @@
 ---
 
 ⭐ **"Code. Learn. Build. Repeat."**
+
