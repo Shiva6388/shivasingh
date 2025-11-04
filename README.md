@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shiva Singh  
 
 🚀 Frontend Developer at **MxAlgo Technologies**  
-💻 Passionate about building modern dashboards and IoT-based web interfaces  
+💻 Passionate about building modern dashboards, IoT-based systems, and scalable web apps  
 
 ---
 
@@ -16,58 +16,94 @@
 ---
 
 ### 🧰 Tech Stack
-**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS  
-**Backend (Learning):** Python, Flask  
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Next.js  
+**Backend (Learning):** Python, Flask, Express.js, MongoDB  
 **Tools:** Git, GitHub, VS Code, Postman, Figma, Chrome DevTools  
 
 ---
 
 ### 💼 Work Experience
 
-#### 🏢 **MxAlgo Technologies** — Frontend Developer  
-📅 *June 2024 – Present*  
-📍 *India (Remote/On-site)*  
+#### 🏢 **MxAlgo Technologies Pvt. Ltd.** — Frontend Developer  
+📅 *July 2025 – Present* | 📍 Greater Noida, India  
 
 **Key Responsibilities:**
-- Developed **responsive dashboards** and **IoT-based frontend modules** using React.js.  
-- Created **reusable UI components** and improved design consistency across multiple projects.  
-- Integrated APIs for real-time IoT device data visualization.  
-- Collaborated with backend and UI/UX teams to deliver scalable web solutions.  
-- Worked with tools like **Postman**, **Git**, and **Tailwind CSS** for faster development.  
+- Developed a **real-time IoT dashboard** using **React.js**, **Tailwind CSS**, and **SignalR**.  
+- Implemented **device/site configuration**, **custom dashboards**, and **live reporting tools**.  
+- Built reusable UI components for scalability and performance.  
+- Collaborated with backend teams for **API integration** and real-time updates.  
+
+---
+
+#### 💻 **Elysion Softwares Pvt. Ltd.** — Software Engineer Intern  
+📅 *Dec 2024 – May 2025* | 📍 Gurugram, India  
+
+**Key Responsibilities:**
+- Built a **recruitment portal** using **React.js** with a clean, responsive design.  
+- Created reusable components and managed frontend architecture.  
+- Focused on improving maintainability and user experience.  
 
 ---
 
 ### 🧠 Featured Projects
-- 📝 [Notes App](https://github.com/yourusername/notes-app)  
-  A responsive note-taking app built with React.js and localStorage.  
 
-- 📊 [Dashboard UI](https://github.com/yourusername/dashboard-ui)  
-  Admin dashboard with charts, tables, and role-based access.  
+#### 🏡 **RealityProp.in — Real Estate Platform (Full Stack)**
+**Tech:** React.js, Express.js, MongoDB, Tailwind CSS  
+- Built a **real-estate web app** with dynamic property listings and user management.  
+- Designed a responsive **React frontend** and a scalable **Express/MongoDB backend**.  
+- Added CRUD features, authentication, and search filtering.  
+🔗 [GitHub Repo](https://github.com/shiva6388/realityprop) *(Replace with your link)*  
 
-- 🔐 [User Auth System](https://github.com/yourusername/user-auth)  
-  Authentication system built with React and API integration.  
+---
 
-*(💡 Replace these links with your actual GitHub projects)*  
+#### 🤖 **HR STREAMLINE AI — Agentic HR Platform**
+**Tech:** React.js, Tailwind CSS, Next.js  
+- Developed an **AI-powered HR management platform** focusing on Agentic AI agents.  
+- Built a **responsive UI** and integrated **Next.js backend APIs**.  
+🔗 [GitHub Repo](https://github.com/shiva6388/hr-streamline-ai) *(Replace with your link)*  
+
+---
+
+#### 📊 **IoT Dashboard — MxAlgo Technologies (Work Project)**
+**Tech:** React.js, Tailwind CSS, SignalR  
+- Created a **real-time IoT dashboard** for device monitoring and reporting.  
+- Integrated SignalR for **live data streaming** and device configuration.  
+- Built reusable React components and optimized performance.  
+*(Internal company project — code not public)*  
+
+---
+
+#### 💼 **Recruitment Portal — Internship Project**
+**Tech:** React.js, Tailwind CSS  
+- Designed a **recruitment portal** with interactive UI and reusable components.  
+- Focused on frontend architecture and responsive design.  
 
 ---
 
 ### 🌱 Current Focus
-- Strengthening backend skills with **Flask + MongoDB**  
-- Building full-stack React + Python projects  
-- Improving performance and scalability of UI dashboards  
+- Strengthening backend with **Flask + MongoDB**  
+- Building **Full Stack React + Python projects**  
+- Contributing to open-source and improving performance of dashboards  
 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiva6388&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva6388&layout=compact&theme=tokyonight)  
+
+---
+
+### 🏆 Achievements
+- ⭐ 4-Star in **C++** on HackerRank  
+- 💡 Solved **100+ DSA problems** across coding platforms  
+- 🏅 Top 15% statewide with merit-based scholarship  
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 💻 [Portfolio](https://yourportfolio.com) *(if you have one)*  
-- 📧 shivasingh@email.com  
+- 💼 [LinkedIn](https://linkedin.com/in/shiva-singh-04a554291/)  
+- 💻 [GitHub](https://github.com/shiva6388)  
+- 📧 shivasingh1345@gmail.com  
 
 ---
 
